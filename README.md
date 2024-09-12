@@ -35,6 +35,7 @@ As mecânicas do jogo precisavam ser simples: implementei o movimento usando Inp
 Também desenvolvi uma HUD básica e implementei um sistema simples de sons.
 
 #
+</details>
 <details>
  <summary><h3>🎨3D Modeling and Visuals</h3></summary>
  [EN_US]
@@ -48,3 +49,4 @@ For my first experience with Blender and 3D modeling, I was quite satisfied with
 Na parte visual do jogo, tivemos que criar pelo menos 45 assets. Modelei e texturizei diversos elementos para a composição do cenário, como a mobília do quarto e da cozinha, além dos inimigos, incluindo a panela, a vela, o isqueiro, a caixa de fósforos, o fogão e o caminhão, que era o personagem principal. Todos os assets tinham que ser low poly, com um limite de triângulos, sem usar modificadores do Blender.
 
 Para a minha primeira experiência com o Blender e com Modelagem 3D, fiquei até satisfeito com o resultado. No entanto, como o caminhão era o personagem principal e o destaque do jogo, eu deveria ter investido mais tempo e trabalho nele. A HUD foi criada com os elementos próprios da Unity, e também poderia ter recebido mais atenção para uma composição mais caprichada. No geral, para uma primeira experiência de alguém que não tem foco na parte artística, o resultado foi agradável.
+</details>
