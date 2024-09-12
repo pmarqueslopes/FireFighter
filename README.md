@@ -39,8 +39,12 @@ Também desenvolvi uma HUD básica e implementei um sistema simples de sons.
  <summary><h3>🎨3D Modeling and Visuals</h3></summary>
  [EN_US]
 
+On the visual side of the game, we had to create at least 45 assets. I modeled and textured various elements for the environment, such as the bedroom and kitchen furniture, as well as the enemies, including the pot, the candle, the lighter, the matchbox, the stove, and the fire truck, which was the main character. All assets had to be low poly, with a triangle limit, without using Blender modifiers.
 
+For my first experience with Blender and 3D modeling, I was quite satisfied with the result. However, since the fire truck was the main character and the highlight of the game, I should have put more effort into it. The HUD was created using Unity’s built-in elements, and it also could have been given more attention for a better composition. Overall, for a first experience from someone who is not focused on the artistic side, the result was pleasing.
   
 #
 [PT_BR]
+Na parte visual do jogo, tivemos que criar pelo menos 45 assets. Modelei e texturizei diversos elementos para a composição do cenário, como a mobília do quarto e da cozinha, além dos inimigos, incluindo a panela, a vela, o isqueiro, a caixa de fósforos, o fogão e o caminhão, que era o personagem principal. Todos os assets tinham que ser low poly, com um limite de triângulos, sem usar modificadores do Blender.
 
+Para a minha primeira experiência com o Blender e com Modelagem 3D, fiquei até satisfeito com o resultado. No entanto, como o caminhão era o personagem principal e o destaque do jogo, eu deveria ter investido mais tempo e trabalho nele. A HUD foi criada com os elementos próprios da Unity, e também poderia ter recebido mais atenção para uma composição mais caprichada. No geral, para uma primeira experiência de alguém que não tem foco na parte artística, o resultado foi agradável.
