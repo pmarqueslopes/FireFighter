@@ -23,14 +23,14 @@ Toda a programação e modelagem precisavam ser originais, e essa foi minha prim
  <summary><h3>⚙ Mechanics</h3></summary>
 [EN_US]
 
-The game mechanics had to be simple: I implemented movement using Input, a projectile shooting system, player health, and basic collisions. I created enemies with distinct behaviors: a candle that stayed in place, aiming and shooting at the player; a pot that chased the player, trying to collide with them; as well as a matchstick and a lighter that moved around and shot at the player. The final Boss was a stove that attacked the player with projectiles.
+The game mechanics had to be simple: I implemented movement using Input, a projectile shooting system, player health,basic collisions and some powerUps. I created enemies with distinct behaviors: a candle that stayed in place, aiming and shooting at the player; a pot that chased the player, trying to collide with them; as well as a matchstick and a lighter that moved around and shot at the player. The final Boss was a stove that attacked the player with projectiles.
 
 I also developed a simple HUD and implemented a basic sound system.
   
 #
 [PT_BR]
 
-As mecânicas do jogo precisavam ser simples: implementei o movimento usando Input, um sistema de disparo de projéteis, vida para o jogador e colisões básicas. Criei inimigos com comportamentos distintos: uma vela que ficava parada e mirava no jogador para atirar, uma panela que perseguia o jogador tentando colidir com ele, além de um fósforo e um isqueiro que andavam e atiravam no player. O Boss final era um fogão que atacava o jogador com projéteis.
+As mecânicas do jogo precisavam ser simples: implementei o movimento usando Input, um sistema de disparo de projéteis, vida para o jogador,colisões básicas e powerUps. Criei inimigos com comportamentos distintos: uma vela que ficava parada e mirava no jogador para atirar, uma panela que perseguia o jogador tentando colidir com ele, além de um fósforo e um isqueiro que andavam e atiravam no player. O Boss final era um fogão que atacava o jogador com projéteis.
 
 Também desenvolvi uma HUD básica e implementei um sistema simples de sons.
 
